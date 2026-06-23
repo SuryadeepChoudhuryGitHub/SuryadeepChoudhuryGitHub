@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-driven+NPC+behavior+with+pathfinding;Solving+DSA+problems+and+designing+algorithms;Building+a+first-person+horror+game+in+Python;Crafting+shaders+with+OpenGL+%2B+GLSL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=%20Building+AI-driven+NPC+behavior+with+pathfinding;%20Solving+DSA+problems+and+designing+algorithms;%20Building+a+first-person+horror+game+in+Python;%20Crafting+shaders+with+OpenGL+%2B+GLSL" alt="Typing SVG" />
 </p>
 
 ---
