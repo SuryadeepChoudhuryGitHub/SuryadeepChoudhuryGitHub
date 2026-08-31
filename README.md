@@ -61,11 +61,11 @@
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SuryadeepChoudhuryGitHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cb=1788168137" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryadeepChoudhuryGitHub&layout=compact&theme=tokyonight&hide_border=true&cb=1788168137" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SuryadeepChoudhuryGitHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cb=1788207737" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryadeepChoudhuryGitHub&layout=compact&theme=tokyonight&hide_border=true&cb=1788207737" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryadeepChoudhuryGitHub&theme=tokyonight&hide_border=true&cb=1788168137" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryadeepChoudhuryGitHub&theme=tokyonight&hide_border=true&cb=1788207737" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuryadeepChoudhuryGitHub&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
